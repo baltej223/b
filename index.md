@@ -5,12 +5,14 @@ Put this into your website's head tag
 ```markdown
 <script src="https://baltej223.github.io/b.js/b.js"></script>
 ```
+Or click the given link to download.
+
+[Download](https://github.com/baltej223/b.js/blob/gh-pages/b.js-main.zip?raw=true)
 
 Or you can Download it from github click [this link](https://github.com/baltej223/b.js) Or visit the given url.
 ```markdown
 https://github.com/baltej223/b.js
 ```
-
 Visit [Introduction page](https://baltej223.github.io/b.js/intro) for learning more.
 
 
