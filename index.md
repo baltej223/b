@@ -9,7 +9,7 @@ Put this into your website's head tag
 ```
 Or you can download it. Click [this](https://raw.githubusercontent.com/baltej223/b.js/main/b.js.js) to download.
 
-Download from github click [this](https://github.com/baltej223/b.js).
+Download from github click [this](https://github.com/baltej223/b.js) Or visit the given url.
 ```markdown
 https://github.com/baltej223/b.js
 ```
