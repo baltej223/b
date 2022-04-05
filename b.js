@@ -12,10 +12,7 @@ if(x.slice(0,1).includes(".")){
     return document.getElementsByClassName(x)[y];
   }
   else{
-    //console.error("index of class is not provided");
-    var emo = document.getElementsByClassName(x);
-  for (var i = 0; i < emo.length; i++) {
-    return emo[i];
+    console.error("index of class is not provided");
   }
  }
 }
@@ -101,5 +98,14 @@ function replaceAll(from,what,wf){
   return aaa.join(wf);
 }
 function onresize(fun){document.body.addEventListener(onresize,function(){call(fun);});}
+
+Object.defineProperty(Element.prototype, "center", {
+  value() {
+      this.style.marginLeft="auto";
+      this.style.marginRight="auto";
+  },
+  writable: true,
+  configurable: true,
+});
 
 //created by BALTEJ SINGH.
