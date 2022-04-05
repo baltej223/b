@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## b.js
 
 This is a lightweight framework library which you can download or can include its link in websites head tag.
 
