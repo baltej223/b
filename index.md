@@ -11,7 +11,8 @@ click [here](https://raw.githubusercontent.com/baltej223/b.js/main/b.js.js) to d
 
 Download from github click [it](https://github.com/baltej223/b.js).
 ```markdown
-https://github.com/baltej223/b.js```
+https://github.com/baltej223/b.js
+```
 
 go to [Introduction page](https://baltej223.github.io/b.js/intro) for More knowledge.
 
