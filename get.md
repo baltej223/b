@@ -23,5 +23,5 @@ get(".ele","0").innerHTML="panda";
 </script>
 ```
 If index of the class will not be provided.
- This function will not work and would be
+ This function will not work and you would be
  able to see an error in console saying 'index of class is not provided'
