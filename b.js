@@ -22,7 +22,7 @@ setTimeout(call_funcion,1);
 }
 
 }
-/*
+
 function hide(idOrClass,Index){
 if (a.split(0,1).includes(".")){
   if (index != null | undefined){
@@ -35,7 +35,7 @@ if (a.split(0,1).includes(".")){
 if(a.split(0,1).includes("#")){
   return document.getElementById(idOrClass).style.display="none";
 }
-}*/
+}
 function unhide(hg){
   hb.style.display="block";
 }
