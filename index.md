@@ -14,5 +14,5 @@ Download from github click [it](https://github.com/baltej223/b.js).
 https://github.com/baltej223/b.js
 ```
 
-go to [Introduction page](https://baltej223.github.io/b.js/intro) for More knowledge.
+Visit [Introduction page](https://baltej223.github.io/b.js/intro) for learning more.
 
