@@ -18,8 +18,8 @@ Use '#' to specify that given data is an class name.
 ```markdown 
 <script>
 get(".ele","0").innerHTML="panda";
-/*this will set innerHTML of element having class
- name ele and have index of 0, to panda*/
+//this will set innerHTML of element having class
+//name ele and have index of 0, to panda
 </script>
 ```
 If index of the class will not be provided.
