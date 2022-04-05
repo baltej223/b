@@ -9,4 +9,4 @@ This is a lightweight framework library which you can download or can include it
 Always use it in Head tag.
 click [here](https://https://baltej223.github.io/b/b.js) to download.
 
-go to [Introduction page](#) for More knowledge.
+go to [Introduction page](https://baltej223.github.io/b.js/intro) for More knowledge.
