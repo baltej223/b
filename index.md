@@ -9,6 +9,4 @@ This is a lightweight framework library which you can download or can include it
 Always use it in Head tag.
 click [here](https://https://baltej223.github.io/b/b.js) to download.
 
-### About me
-
-The original creator of b-js is *BALTEJ SINGH*. I am currently studing.
+go to [Introduction page](#) for More knowledge.
