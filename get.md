@@ -2,7 +2,7 @@
 
 ## how to use get()
 Actually **document.getElementById("foo")** is same as **get("#foo")**
-And **document.getElementsByClassName("foo")** is same as **get(".foo","0")**.
+And **document.getElementsByClassName("foo")[0]** is same as **get(".foo","0")**.
 ### get elements by id
 Usage: get("#id of Element")
 Use '#' to specify that given data is an ID
