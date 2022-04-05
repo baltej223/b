@@ -1,4 +1,4 @@
-## b.js
+⁹## b.js
 It is a lightweight Framework which you can use for free. You can either download it or can use it through cdn.
 ### How to use it
 Put this into your website's head tag
@@ -17,7 +17,7 @@ https://github.com/baltej223/b.js
 
 There are many functions that you can use. Some of them are 
 
-- get()
+- [get()](https://baltej223.github.io/b.js/get)
 - print()
 - unhide()  
 - del()
