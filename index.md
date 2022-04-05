@@ -13,8 +13,20 @@ Or you can Download it from github click [this link](https://github.com/baltej22
 ```markdown
 https://github.com/baltej223/b.js
 ```
-Visit [Introduction page](https://baltej223.github.io/b.js/intro) for learning more.
+## Introduction 
 
+There are many functions that you can use. Some of them are 
+
+- get()
+- print()
+- unhide()  
+- del()
+- createElement()
+- hide()
+- del()[2]
+- unhide()[2]
+- replaceAll()
+- onresize()
 
 
 
