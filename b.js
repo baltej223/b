@@ -101,8 +101,8 @@ function onresize(fun){document.body.addEventListener(onresize,function(){call(f
 
 Object.defineProperty(Element.prototype, "center", {
   value() {
-      this.style.marginLeft="auto";
-      this.style.marginRight="auto";
+      this.style.marginLeft = "auto";
+      this.style.marginRight = "auto";
   },
   writable: true,
   configurable: true,
