@@ -4,7 +4,6 @@ if(x.slice(0,1).includes("#")){
   x = x.replace("#","");
    return document.getElementById(x);
 }
-
 if(x.slice(0,1).includes(".")){
   //its a class
   x = x.replace(".","");
