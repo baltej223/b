@@ -11,4 +11,4 @@ hide(get('#e'));
 ```
 To learn about get() function visit [https://baltej223.github.io/b.js/get](https://baltej223.github.io/b.js/get)
 
-[go back to home]((https://baltej223.github.io/b.js/))
+[go back to home](https://baltej223.github.io/b.js/)
