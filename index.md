@@ -19,14 +19,13 @@ There are many functions that you can use. Some of them are
 
 - [get()](https://baltej223.github.io/b.js/get)
 - print()
-- [unhide()](.hide/)
-- [del()](.del/)
+- [unhide()](https://baltej223.github.io/b.js/unhide)
+- [del()](https://baltej223.github.io/b.js/del)
 - createElement()
-- [hide()]((https://baltej223.github.io/b.js/hide))
-- [del()[2]](.del/)
-- [unhide()[2]](.unhide/)
+- [hide()](https://baltej223.github.io/b.js/hide)
+- [del()[2]](https://baltej223.github.io/b.js/del)
+- [unhide()[2]](https://baltej223.github.io/b.js/unhide)
 - replaceAll()
-- onresize()
 - [center()](https://baltej223.github.io/b.js/center)
 
 
