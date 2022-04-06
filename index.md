@@ -1,4 +1,4 @@
-⁹## b.js
+## b.js
 It is a lightweight Framework which you can use for free. You can either download it or can use it through cdn.
 ### How to use it
 Put this into your website's head tag
