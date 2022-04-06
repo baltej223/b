@@ -22,11 +22,12 @@ There are many functions that you can use. Some of them are
 - unhide()  
 - del()
 - createElement()
-- hide()
+- [hide()]((https://baltej223.github.io/b.js/hide))
 - del()[2]
 - unhide()[2]
 - replaceAll()
 - onresize()
+- [center()](https://baltej223.github.io/b.js/center)
 
 
 
