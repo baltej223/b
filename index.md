@@ -19,12 +19,12 @@ There are many functions that you can use. Some of them are
 
 - [get()](https://baltej223.github.io/b.js/get)
 - print()
-- unhide()  
-- del()
+- [unhide()](.hide/)
+- [del()](.del/)
 - createElement()
 - [hide()]((https://baltej223.github.io/b.js/hide))
-- del()[2]
-- unhide()[2]
+- [del()[2]](.del/)
+- [unhide()[2]](.unhide/)
 - replaceAll()
 - onresize()
 - [center()](https://baltej223.github.io/b.js/center)
