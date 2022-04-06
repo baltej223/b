@@ -25,3 +25,4 @@ get(".ele","0").innerHTML="panda";
 If index of the class will not be provided.
  This function will not work and you would be
  able to see an error in console saying 'index of class is not provided'
+[go back to home]((https://baltej223.github.io/b.js/))
