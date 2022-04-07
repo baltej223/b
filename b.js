@@ -4,25 +4,30 @@ if(x.slice(0,1).includes("#")){
   x = x.replace("#","");
    return document.getElementById(x);
 }
-
-if(x.slice(0,1).includes(".")){
+ if(x.slice(0,1).includes(".")){
   //its a class
   x = x.replace(".","");
   if (y != null){
     return document.getElementsByClassName(x)[y];
-  }
-  else{
-    console.error("index of class is not provided");
-  }
  }
 }
-
+else {
+   //tag name
+   if(y != null){
+     return document.getElementsByTagName(x)[y];
+   }
+   else{
+    const elements = document.getElementsByTagName(x); 
+    for (const el of elements) {
+    return el;
+ }
+   }
+ }
+}
+}
 function call(call_funcion){
 setTimeout(call_funcion,1);
 }
-
-}
-
 function hide(idOrClass,Index){
 if (a.split(0,1).includes(".")){
   if (index != null | undefined){
@@ -101,11 +106,11 @@ function onresize(fun){document.body.addEventListener(onresize,function(){call(f
 
 Object.defineProperty(Element.prototype, "center", {
   value() {
-      this.style.marginLeft = 'auto';
-      this.style.marginRight = 'auto';
+    this.style.marginLeft='auto';
+    this.style.marginRight='auto';
+    this.style.textAlign = "center";
   },
   writable: true,
   configurable: true,
 });
-
 //created by BALTEJ SINGH.
