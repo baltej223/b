@@ -4,7 +4,7 @@ if(x.slice(0,1).includes("#")){
   x = x.replace("#","");
    return document.getElementById(x);
 }
-else if(x.slice(0,1).includes(".")){
+ if(x.slice(0,1).includes(".")){
   //its a class
   x = x.replace(".","");
   if (y != null){
@@ -17,9 +17,10 @@ else {
      return document.getElementsByTagName(x)[y];
    }
    else{
-    var fwe = document.getElementsByTagName(x);
-    for (let i = 0; i < fwe.length; i++) {
-      return fwe[i];
+    const elements = document.getElementsByTagName(x); 
+    for (const el of elements) {
+    return el;
+ }
    }
  }
 }
