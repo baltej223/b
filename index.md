@@ -18,7 +18,7 @@ https://github.com/baltej223/b.js
 There are many functions that you can use. Some of them are 
 
 - [get()](https://baltej223.github.io/b.js/get)
-- print()
+- [print()](https://baltej223.github.io/b.js/print)
 - [unhide()](https://baltej223.github.io/b.js/unhide)
 - [del()](https://baltej223.github.io/b.js/del)
 - createElement()
