@@ -175,12 +175,5 @@ Object.defineProperty(Object.prototype, "get", {
 function quadEq(a,b,c){
     return `${Number(-b+Math.sqrt(b*b-4*a*c))/(2*a)},${Number(-b-Math.sqrt(b*b-4*a*c))/(2*a)}`;
   }
-  Object.defineProperty(Element.prototype, "injectHTML", {
-    value(htM) {
-      var d2 = `${this.innerHTML}\n ${htM}`;
-      this.innerHTML = d2;
-    },
-    writable: true,
-    configurable: true,
-  });
+
 //created by BALTEJ SINGH.
